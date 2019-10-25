@@ -1,6 +1,6 @@
 {
     "name": "yiiexttbq/user",
-    "description": "继承自dektrium/yii2-user",
+    "description": "继承自 dektrium/yii2-user",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","user"],
     "license": "MIT",
@@ -11,7 +11,8 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "~2.0.0"
+        "yiisoft/yii2": "~2.0.0",
+        "dektrium/yii2-user": "^0.9.14"
     },
     "autoload": {
         "psr-4": {
